@@ -1,8 +1,7 @@
-dailycodingproblem
-========
+# Daily Coding Problem
 
-### dailycodingproblem
 
+Solutions to problems in swift sent by www.dailycodingproblem.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
