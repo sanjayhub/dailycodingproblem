@@ -15,3 +15,4 @@ Solutions to problems in swift sent by www.dailycodingproblem.com
 |[253](https://www.dailycodingproblem.com)|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [swift](./source/253.swift)|Medium|
 |[256](https://www.dailycodingproblem.com)|[Reorder List](https://leetcode.com/problems/reorder-list/) | [swift](./source/256.swift)|Medium|
 |[257](https://www.dailycodingproblem.com)|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [swift](./source/257.swift)|Medium|
+|[260](https://www.dailycodingproblem.com)|[Deduce nums](https://leetcode.com/problems//) | [swift](./source/260.swift)|Medium|
