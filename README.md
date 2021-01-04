@@ -5,6 +5,7 @@ Solutions to problems in swift sent by www.dailycodingproblem.com
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|[224](https://www.dailycodingproblem.com)|[smallest +ve int not the sum of a subset](https://leetcode.com/problems/) | [swift](./source/224.swift)|Easy|
 |[230](https://www.dailycodingproblem.com)|[Super Egg drop ](https://leetcode.com/problems/super-egg-drop/) | [swift](./source/230.swift)|Medium|
 |[231](https://www.dailycodingproblem.com)|[Reorganize String ](https://leetcode.com/problems/reorganize-string/) | [swift](./source/231.swift)|Medium|
 |[233](https://www.dailycodingproblem.com)|[Fibonacci sequence ](https://leetcode.com/problems/fibonacci-number/) | [swift](./source/233.swift)|Medium|
